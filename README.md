@@ -2,7 +2,7 @@
 
 # Hello World - HTML and CSS basics
 
-> This proyect is to complete my first exercise like micronaut :)
+> This proyect is to complete my first exercise as micronaut :)
 
 ## Built With
 
@@ -10,6 +10,8 @@
 - HTML
 
 ### Prerequisites
+
+- Basic knowledge in HTML and CSS
 
 ### Deployment
 
